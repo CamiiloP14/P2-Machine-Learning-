@@ -2,8 +2,7 @@
 
 ## Tabla de contenidos
 
-* [Decripción del proyecto](#Descripcion-del-proyecto)\
-Hola, mi nombre es Camilo Pedreros :wave: y hoy quiero compartirles un proyecto de machine learning en el que he estado trabajando. Este proyecto se enfoca al área de aprendizaje supervisado con el objetivo de crear un modelo para hacer predicciones.
+* [Decripción del proyecto](#Descripcion-del-proyecto)
 
 * [Estado del proyecto](#Estado-del-proyecto)
 
@@ -20,3 +19,6 @@ Hola, mi nombre es Camilo Pedreros :wave: y hoy quiero compartirles un proyecto 
 * [Licencia](#licencia)
 
 * [Conclusión](#conclusión)
+## Descrfipción del proyecto
+
+Hola, mi nombre es Camilo Pedreros :wave: y hoy quiero compartirles un proyecto de machine learning en el que he estado trabajando. Este proyecto se enfoca al área de aprendizaje supervisado con el objetivo de crear un modelo para hacer predicciones.
