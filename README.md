@@ -44,7 +44,18 @@ Para evaluar el desempeño del modelo, se utilizaron las métricas de Exhaustivi
   <img width="600" height="400" src="https://user-images.githubusercontent.com/109446657/207929132-baacad01-c9b7-4215-8202-6a8256456ce5.svg">
 </p>
 
+## Tecnologías utilizadas
+Para este proyecto se utilizando las siguientes herramientas.
+* Python
+  * numpy
+  * pandas
+  * seaborn
+  * matplotlib
+  * sklearn
+Python es un lenguaje de programación que te permite trabajar rápidamente e integrar sistemas de manera más efectiva. https://docs.python.org/3/
 ## Estado del proyecto
  <p align="left">
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
+   
+  
