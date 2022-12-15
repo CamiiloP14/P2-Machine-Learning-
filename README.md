@@ -1,1 +1,1 @@
-<em> #P2- Aprendizaje supervisado -Machine Learning </em>
+<h1 align="center"> Aprendizaje supervisado -Machine Learning </h1>
