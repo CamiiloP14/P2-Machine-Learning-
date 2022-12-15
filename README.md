@@ -3,6 +3,7 @@
 ## Tabla de contenidos
 
 * [Decripción del proyecto] 
+* 
 * [Estado del proyecto](#Estado-del-proyecto)
 
 * [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
