@@ -16,7 +16,7 @@
 
 * [Estado del proyecto](#Estado-del-proyecto)
 
-* [Acceso al proyecto](#acceso-al-proyecto)
+* [Información del proyecto](#Información-del-proyecto)
 
 * [Conclusiones](#Conclusiones)
 
