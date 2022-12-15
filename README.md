@@ -30,3 +30,5 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 
 ## Desarrollo del proyecto
 
+-1 EDA 
+Primero cargamos los datos usando la libreria pandas, para luego empezar a realizar un EDA de los dos datasets: 'Hospitalizaciones_train' y ospitalizaciones_test'. Se realizan los cambios necesarios, se crea la variable objetivo ('target') y se realizan algunos gráficos para observar la distribución de los datos.
