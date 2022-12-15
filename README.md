@@ -1,6 +1,7 @@
 <h1 align="center"> Aprendizaje supervisado -Machine Learning </h1>
-
-![HenryLogo](https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png)
+<p align="center">
+  <img width="600" height="400" src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
+</p>
 
 ## Tabla de contenidos
 * [Introducción](#Introducción)
@@ -63,4 +64,4 @@ Python es un lenguaje de programación que te permite trabajar rápidamente e in
  Puede encontrar toda la información inicial de este proyecto en https://github.com/soyHenry/Datathon#readme
 
 ## Conclusiones
-Este fue un proyecto desafiante en el que se logra interiorizar los conceptos de Machine Learning, Aprendizaje supervisado y algorítmos de clasificación. Así mismo, se logra el objetivo de predecir la estadia de un paciente en el hospital en cuestión. Las futuras actualizaciones de este proyecto se enfocarán en mojorar la performance del proyecto e investigar más algoritmos de clasificación para poder hacer mejores predicciones.
+Este fue un proyecto desafiante en el que se logra interiorizar los conceptos de Machine Learning, Aprendizaje supervisado y algorítmos de clasificación. Así mismo, se logra el objetivo de predecir la estadia de un paciente en el hospital en cuestión. Las futuras actualizaciones de este proyecto se enfocarán en mejorar la performance del proyecto e investigar más algoritmos de clasificación para poder hacer mejores predicciones.
