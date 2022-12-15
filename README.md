@@ -52,8 +52,8 @@ Para este proyecto se utilizando las siguientes herramientas.
   * seaborn
   * matplotlib
   * sklearn
-\
-\
+
+
 Python es un lenguaje de programación que te permite trabajar rápidamente e integrar sistemas de manera más efectiva. https://docs.python.org/3/
 ## Estado del proyecto
  <p align="left">
