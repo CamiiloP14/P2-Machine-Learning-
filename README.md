@@ -19,6 +19,6 @@
 * [Licencia](#licencia)
 
 * [Conclusión](#conclusión)
-## Descrfipción del proyecto
+## Descripción del proyecto
 
 Hola, mi nombre es Camilo Pedreros :wave: y hoy quiero compartirles un proyecto de machine learning en el que he estado trabajando. Este proyecto se enfoca al área de aprendizaje supervisado con el objetivo de crear un modelo para hacer predicciones.
