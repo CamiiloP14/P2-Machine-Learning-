@@ -41,8 +41,8 @@ Para evaluar el desempeño del modelo, se utilizaron las métricas de Exhaustivi
 
 ## Flujo de control
 <p align="center">
-<![Diagrama aprendizaje supervisado](https://user-images.githubusercontent.com/109446657/207929132-baacad01-c9b7-4215-8202-6a8256456ce5.svg) />
- </p>
+<img https://user-images.githubusercontent.com/109446657/207929132-baacad01-c9b7-4215-8202-6a8256456ce5.svg)>
+</p>
 
 
 
