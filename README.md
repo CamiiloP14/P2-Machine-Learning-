@@ -3,7 +3,7 @@
 ## Tabla de contenidos
 
 * [Decripción del proyecto]
-# Hola a todos, mi nombre es Camilo Pedreros y hoy quiero compartirles un proyecto de machine learning en el que he estado trabajando. Este proyecto se enfoca al área de aprendizaje supervisado con el objetivo de crear un modelo para hacer predicciones.
+(# Hola a todos, mi nombre es Camilo Pedreros y hoy quiero compartirles un proyecto de machine learning en el que he estado trabajando. Este proyecto se enfoca al área de aprendizaje supervisado con el objetivo de crear un modelo para hacer predicciones.)
 
 * [Estado del proyecto](#Estado-del-proyecto)
 
