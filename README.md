@@ -36,7 +36,9 @@ Primero cargamos los datos usando la libreria pandas, para luego empezar a reali
 Después de tener los datos limpios, y observando el requerimiento del cliente, no enfocamos en hacer modelos de clasificación y se tomaron en cuenta los algorítmos de K vecinos más cercanos y el algoritmo de árbol de decisión ya que estos son perfectos cuando la varible objetivo es una variable binaria.
 -3) Predicción\
 Finalmente se entrena el modelo y se realizan las predecciones con el dataset 'hospitalizaciones_test'.
-- 4) Rendimiento del modelo\
-Para evaluar el desempeño del modelo, se utilizará la métrica de Exhaustividad (Recall) y la métrica de precisión (Accuracy).
+- 3) Rendimiento del modelo\
+Para evaluar el desempeño del modelo, se utilizaron las métricas de Exhaustividad (Recall) de precisión (Accuracy), basándonos en la matriz de confusión.
 
+## Flujo de control
+![supervised-learning-diagram](https://user-images.githubusercontent.com/109446657/207928437-bedb2903-f6cf-4aa0-a550-c2bdfb25606a.png)
 
