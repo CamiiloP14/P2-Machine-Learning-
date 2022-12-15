@@ -2,9 +2,7 @@
 
 ## Tabla de contenidos
 
-* [Índice](#índice)
-
-*[Introducción]
+* [Decripción del proyecto](#)
 
 * [Estado del proyecto](#Estado-del-proyecto)
 
