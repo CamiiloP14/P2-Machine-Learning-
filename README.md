@@ -1,20 +1,21 @@
 <h1 align="center"> Aprendizaje supervisado -Machine Learning </h1>
-##Índice
 
-*[Descripción del proyecto](#Hola a todos, mi nombre es Camilo Pedreros y hoy les vengo a compartir este proyecto que estoy realizando sobre Machine Learning en el área de aprendizaje supervisado.)
+## Índice
 
-*[Estado del proyecto](#Estado-del-proyecto)
+* [Descripción del proyecto](#Hola a todos, mi nombre es Camilo Pedreros y hoy les vengo a compartir este proyecto que estoy realizando sobre Machine Learning en el área de aprendizaje supervisado.)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+* [Estado del proyecto](#Estado-del-proyecto)
 
-*[Acceso al proyecto](#acceso-proyecto)
+* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Acceso al proyecto](#acceso-proyecto)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+* [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+* [Personas Contribuyentes](#personas-contribuyentes)
+
+* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
 * [Licencia](#licencia)
 
-*[Conclusión](#conclusión)
+* [Conclusión](#conclusión)
