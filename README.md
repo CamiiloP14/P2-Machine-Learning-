@@ -33,7 +33,7 @@ Para esto, se define que un paciente posee estancia hospitalaria prolongada si h
 - 1) EDA \
 Primero cargamos los datos usando la libreria pandas, para luego empezar a realizar un EDA de los dos datasets: 'hospitalizaciones_train' y 'hospitalizaciones_test'. Se realizan los cambios necesarios, se crea la variable objetivo ('target') y se realizan algunos gráficos para observar la distribución de los datos.
 - 2) Modelado\
-Después de tener los datos limpios, y observando el requerimiento del cliente, no enfocamos en hacer modelos de clasificación. Para esto, se tomaron en cuenta los algorítmos de K vecinos más cercanos y el algoritmo de árbol de decisión ya que estos son perfectos cuando la varible objetivo es una variable binaria.
+Después de tener los datos limpios, y observando el requerimiento del cliente, no enfocamos en hacer modelos de clasificación. Para esto, se tomaron en cuenta los algorítmos de K vecinos más cercanos y el algoritmo de árbol de decisión, pero finalmente solo se utilizó KNN ya que el otro tenía una performance más baja.
 - 3) Predicción\
 Finalmente se entrena el modelo y se realizan las predecciones con el dataset 'hospitalizaciones_test'.
 - 4) Rendimiento del modelo\
