@@ -1,7 +1,7 @@
 <h1 align="center"> Aprendizaje supervisado -Machine Learning </h1>
 
 ## Índice
-* [Introducción](# Hola a todos, mi nombre es Camilo Pedreros y hoy les vengo a compartir este proyecto que estoy realizando sobre Machine Learning en el área de aprendizaje supervisado.)
+* [Introducción]
 
 * [Estado del proyecto](#Estado-del-proyecto)
 
