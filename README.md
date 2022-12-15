@@ -16,9 +16,9 @@
 
 * [Estado del proyecto](#Estado-del-proyecto)
 
-* [Acceso al proyecto](#acceso-proyecto)
+* [Acceso al proyecto](#acceso-al-proyecto)
 
-* [Conclusiones](#personas-contribuyentes)
+* [Conclusiones](#Conclusiones)
 
 ## Introducción
 Hola, mi nombre es Camilo Pedreros :wave: y hoy quiero compartirles un proyecto de machine learning en el que he estado trabajando. Este proyecto se enfoca al área de aprendizaje supervisado con el objetivo de crear un modelo para hacer predicciones.
