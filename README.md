@@ -7,19 +7,16 @@
 
 * [Desarrollo del proyecto](#Desarrollo-del-proyecto)
 
+* [Flujo de control](#Flujo-de-control)
+
+* [Tecnologías utilizadas](#tecnologías-utilizadas)
+
 * [Estado del proyecto](#Estado-del-proyecto)
 
 * [Acceso al proyecto](#acceso-proyecto)
 
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Conclusiones](#personas-contribuyentes)
 
-* [Personas Contribuyentes](#personas-contribuyentes)
-
-* [Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-* [Conclusión](#conclusión)
 ## Introducción
 Hola, mi nombre es Camilo Pedreros :wave: y hoy quiero compartirles un proyecto de machine learning en el que he estado trabajando. Este proyecto se enfoca al área de aprendizaje supervisado con el objetivo de crear un modelo para hacer predicciones.
 
@@ -60,4 +57,8 @@ Python es un lenguaje de programación que te permite trabajar rápidamente e in
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
    </p>
    
-  
+ # Información del proyecto
+ Puede encontrar toda la información inicial de este proyecto en https://github.com/soyHenry/Datathon#readme
+
+# Conclusiones
+Este fue un proyecto desafiante en el que se logra interiorizar los conceptos de Machine Learning, Aprendizaje supervisado y algorítmos de clasificación. Así mismo, se logra el objetivo de predecir la estadia de un paciente en el hospital en cuestión. Las futuras actualizaciones de este proyecto se enfocarán en mojorar la performance del proyecto e investigar más algoritmos de clasificación para poder hacer mejores predicciones.
