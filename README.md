@@ -1,6 +1,6 @@
 <h1 align="center"> Aprendizaje supervisado -Machine Learning </h1>
 <p align="center">
-  <img width="600" height="400" src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
+  <img width="400" height="300" src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
 </p>
 
 ## Tabla de contenidos
