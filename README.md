@@ -44,5 +44,7 @@ Para evaluar el desempeño del modelo, se utilizaron las métricas de Exhaustivi
 
 
 
-
+<p align="center">
+  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/109446657/207929132-baacad01-c9b7-4215-8202-6a8256456ce5.svg)">
+</p>
 
