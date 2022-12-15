@@ -40,5 +40,5 @@ Finalmente se entrena el modelo y se realizan las predecciones con el dataset 'h
 Para evaluar el desempeño del modelo, se utilizaron las métricas de Exhaustividad (Recall) de precisión (Accuracy), basándonos en la matriz de confusión.
 
 ## Flujo de control
-! [supervised-learning-diagram](https://user-images.githubusercontent.com/109446657/207928437-bedb2903-f6cf-4aa0-a550-c2bdfb25606a.png)
+![supervised-learning-diagram](https://user-images.githubusercontent.com/109446657/207928437-bedb2903-f6cf-4aa0-a550-c2bdfb25606a.png)
 
