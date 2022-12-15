@@ -1,10 +1,10 @@
 <h1 align="center"> Aprendizaje supervisado -Machine Learning </h1>
 
-## Índice
+## Tabla de contenidos
 
 * [Índice](#índice)
 
-* [Introducción]
+*[Introducción]
 
 * [Estado del proyecto](#Estado-del-proyecto)
 
