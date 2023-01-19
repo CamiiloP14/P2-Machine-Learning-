@@ -57,7 +57,7 @@ Para este proyecto se utilizando las siguientes herramientas.
 Python es un lenguaje de programación que te permite trabajar rápidamente e integrar sistemas de manera más efectiva. https://docs.python.org/3/
 ## Estado del proyecto
  <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-%20FINALIZADO-green">
    </p>
    
  ## Información del proyecto
