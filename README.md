@@ -1,4 +1,4 @@
-<h1 align="center"> Predicciones de la estadia de un paciente en un hospital </h1>
+<h1 align="center"> Predicciones de la estadia de un paciente en un centro de salud </h1>
 <p align="center">
   <img width="400" height="300" src="https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png">
 </p>
